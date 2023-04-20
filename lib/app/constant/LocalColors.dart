@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+Color themeColor = const Color(0xFF1967B2);
+Color whiteColor = const Color(0xFFFFFFFF);
+Color blackColor = const Color(0xFF000000);
+Color transparent = const Color(0x00000000);
+Color hintColor = const Color(0xFFDCDDE1);
+Color applyBtn = const Color(0xFF318ed4);
+Color borderColor = const Color(0xFFe9e9e9);
+Color chart1Color = const Color(0xFF3e96ef);
+Color chart2Color = const Color(0xFF7eb2eb);
+Color questionBack = const Color(0xFFf2f2f2);
+Color arrowColor = const Color(0xFFbdbdbd);
+Color iconColor = const Color(0xFFc7c7c7);
+Color dividerColor = const Color(0xFFc2c2c2);
+Color boxBackColor = const Color(0xFFf4f4f4);
+Color unProgressColor = const Color(0xFFf6f6f6);
+Color chart3Color = const Color(0xFF67b7dc);
+Color unselectTab = const Color(0xFF7f7f7f);
+Color selectTab = const Color(0xFF1967B2);
+Color applicantBack = const Color(0xFFefefef);
